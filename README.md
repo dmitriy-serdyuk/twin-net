@@ -1,5 +1,7 @@
-Twinnet
-=======
+Twinnet (WIP)
+=============
+
+Official collection of links for implementations of experiments in the paper [Twin Networks: Matching the Future for Sequence Generation](https://arxiv.org/abs/1708.06742).
 
 Speech recognition
 ------------------
