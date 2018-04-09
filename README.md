@@ -5,7 +5,7 @@ Official collection of links for implementations of experiments in the paper [Tw
 
 Speech recognition
 ------------------
-Repo: https://github.com/dmitriy-serdyuk/fully-neural-lvsr
+Repo: https://github.com/dmitriy-serdyuk/twinnet-asr
 
 Image captioning
 ----------------
